@@ -3,3 +3,4 @@ lxml>=4.9
 signxml>=3.2.0
 cryptography>=42.0.0
 requests>=2.31.0
+pytest>=7.0.0
